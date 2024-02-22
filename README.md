@@ -23,7 +23,7 @@
 
 | 주차 | 주제                                        |
 | ---- | ------------------------------------------- |
-| 1    | [SQL]() <br> [ERD]() <br> [Normalization]() |
+| 1    | [SQL](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/SQL) <br> [ERD](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/ERD) <br> [Normalization](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Normalization) |
 | 2    | Indexing <br> Transaction                   |
 | 3    | N+1 Problem <br> NoSQL                      |
 | 4    | Process & Thread <br> 스케줄링              |
