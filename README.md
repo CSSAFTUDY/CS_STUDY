@@ -10,66 +10,45 @@
 [☉ Issue Template](https://github.com/CSSAFTUDY/CS_STUDY/issues) 이용
 
 ```
-1. 각자 정해진 주제 조사 후 Issue에 게시
-2. Issue에 올라온 정보 모두 숙지
-3. 주에 한번, 총 12개의 주제 중 랜덤으로 2개씩 골라 발표
-4. 발표를 듣는 팀원들은 주제에 대해 질문
-5. 발표 후 알게된 사항들은 Issue 댓글에 정리
+1. 각자 정해진 주제 공부/정리 후 해당 디렉토리에 게시
+2. 다른 사람이 올린 내용도 모두 숙지
+3. 해당 주제에 대해 ISSUE에 질문거리 게시
+4. 주에 한번, 총 12개의 주제 중 랜덤으로 2개씩 골라 발표
+5. 발표를 듣는 팀원들은 주제에 대해 질문
+6. 발표 후 알게된 사항들은 Issue 댓글에 정리
 ```
 
 <br/>
 
-## 주차
+## 📚 Curriculum
 
-| 주차 | 주제                                        |
-| ---- | ------------------------------------------- |
-| 1    | [SQL](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/SQL) <br> [ERD](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/ERD) <br> [Normalization](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Normalization) |
-| 2    | Indexing <br> Transaction                   |
-| 3    | N+1 Problem <br> NoSQL                      |
-| 4    | Process & Thread <br> 스케줄링              |
-| 5    | 프로세스 동기화 <br> 메모리 & 캐시          |
-| 6    | 가상메모리 <br> 파일시스템                  |
-| 7    | 대용량 저장구조                             |
-| 8    | <del>추후 추가 예정</del>                   |
+| 주차 | 분류 | 주제                            |
+| ---- | ---- | ------------------------------- |
+| 1    | DB   | [SQL](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/SQL) / [ERD](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/ERD) / [Normalization](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Normalization)                                   |
+| 2    | DB   | Indexing / Transaction          |
+| 3    | DB   | N+1 Problem / NoSQL             |
+| 4    | OS   | Process & Thread / 스케줄링     |
+| 5    | OS   | 프로세스 동기화 / 메모리 & 캐시 |
+| 6    | OS   | 가상메모리 / 파일시스템         |
+| 7    | OS   | 대용량 저장구조                 |
+| 8    | NW   | IP / OSI 7계층 & TCP/IP 4계층   |
+| 9    | NW   | HTTP/HTTPS / Restful            |
+| 10   | NW   | 응용 계층                       |
+| 12   | NW   | 전송 계층                       |
+| 13   | NW   | 네트워크 계층                   |
 
-<hr>
+---
 
-## 🗂️ Database
+## 🔍 Preview
 
-| #   | 유형          | 바로가기 |
-| --- | ------------- | -------- |
-| 1   | SQL           | []()     |
-| 2   | ERD           | []()     |
-| 3   | Normalization | []()     |
-| 4   | Indexing      | []()     |
-| 5   | Transaction   | []()     |
-| 6   | N + 1 Problem | []()     |
-| 7   | NoSQL         | []()     |
+| #   | 🗂️ Database   | ⚙️ Operating System | 🛰️ Network               |
+| --- | ------------- | ------------------- | ------------------------ |
+| 1   | SQL           | Process & Thread    | IP(Internet Protocol)    |
+| 2   | ERD           | 스케줄링            | OSI 7계층 & TCP/IP 4계층 |
+| 3   | Normalization | 프로세스 동기화     | 응용 계층                |
+| 4   | Indexing      | 메모리 & 캐시       | HTTP/HTTPS               |
+| 5   | Transaction   | 가상 메모리         | Restful                  |
+| 6   | N + 1 Problem | 파일 시스템         | 전송 계층                |
+| 7   | NoSQL         | 대용량 저장구조     | 네트워크 계층            |
 
-<br/>
-
-## ⚙️ Operating System
-
-| #   | 유형             | 바로가기 |
-| --- | ---------------- | -------- |
-| 1   | Process & Thread | []()     |
-| 2   | 스케줄링         | []()     |
-| 3   | 프로세스 동기화  | []()     |
-| 4   | 메모리 & 캐시    | []()     |
-| 5   | 가상 메모리      | []()     |
-| 6   | 파일 시스템      | []()     |
-| 7   | 대용량 저장구조  | []()     |
-
-<br/>
-
-## 🛰️ Network
-
-| #   | 유형                     | 바로가기 |
-| --- | ------------------------ | -------- |
-| 1   | IP(Internet Protocol)    | []()     |
-| 2   | OSI 7계층 & TCP/IP 4계층 | []()     |
-| 3   | 응용 계층                | []()     |
-| 4   | HTTP/HTTPS               | []()     |
-| 5   | Restful                  | []()     |
-| 6   | 전송 계층                | []()     |
-| 7   | 네트워크 계층            | []()     |
+(❁´◡`❁)
