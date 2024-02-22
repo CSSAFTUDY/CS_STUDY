@@ -21,16 +21,16 @@
 
 ## 주차
 
-| 주차 | 주제                               |
-| ---- | ---------------------------------- |
-| 1    | SQL <br> ERD <br> Normalization    |
-| 2    | Indexing <br> Transaction          |
-| 3    | N+1 Problem <br> NoSQL             |
-| 4    | Process & Thread <br> 스케줄링     |
-| 5    | 프로세스 동기화 <br> 메모리 & 캐시 |
-| 6    | 가상메모리 <br> 파일시스템         |
-| 7    | 대용량 저장구조                    |
-| 8    | <del>추후 추가 예정</del>          |
+| 주차 | 주제                                        |
+| ---- | ------------------------------------------- |
+| 1    | [SQL]() <br> [ERD]() <br> [Normalization]() |
+| 2    | Indexing <br> Transaction                   |
+| 3    | N+1 Problem <br> NoSQL                      |
+| 4    | Process & Thread <br> 스케줄링              |
+| 5    | 프로세스 동기화 <br> 메모리 & 캐시          |
+| 6    | 가상메모리 <br> 파일시스템                  |
+| 7    | 대용량 저장구조                             |
+| 8    | <del>추후 추가 예정</del>                   |
 
 <hr>
 
