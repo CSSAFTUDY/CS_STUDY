@@ -13,7 +13,7 @@
 1. 각자 정해진 주제 공부/정리 후 해당 디렉토리에 게시
 2. 다른 사람이 올린 내용도 모두 숙지
 3. 해당 주제에 대해 ISSUE에 질문거리 게시
-4. 주에 한번, 총 12개의 주제 중 랜덤으로 2개씩 골라 발표
+4. 주에 한번, 각 주제 발표 (팀별로 상의 후 진행)
 5. 발표를 듣는 팀원들은 주제에 대해 질문
 6. 발표 후 알게된 사항들은 Issue 댓글에 정리
 ```
@@ -25,7 +25,7 @@
 | 주차 | 분류 | 주제                            |
 | ---- | ---- | ------------------------------- |
 | 1    | DB   | [SQL](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/SQL) / [ERD](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/ERD) / [Normalization](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Normalization)                                   |
-| 2    | DB   | Indexing / Transaction          |
+| 2    | DB   | [Indexing](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Indexing) / [Transaction](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Transaction)          |
 | 3    | DB   | N+1 Problem / NoSQL             |
 | 4    | OS   | Process & Thread / 스케줄링     |
 | 5    | OS   | 프로세스 동기화 / 메모리 & 캐시 |
