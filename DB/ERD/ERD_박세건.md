@@ -1,4 +1,3 @@
-![](https://velog.velcdn.com/images/parksegun/post/1e5f7ba6-346b-41db-89c2-fdf49a87a660/image.jpg)
 # ERD란?
 >우리는 DB를 설계하기위해서 데이터 모델링라는 과정을 거치게됩니다.  데이터 모델링이란 업무내용을 분석하고 약속된 표기법에 의해 표현하는 것을 의미합니다.
 데이터 모델링 총 4가지의 절차로 이루어집니다.
