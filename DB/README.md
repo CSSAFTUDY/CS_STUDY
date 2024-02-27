@@ -1,6 +1,6 @@
 [노션으로 보기](https://cumbersome-juniper-780.notion.site/1-ac0e644f027343f5823719fc7132f5c6?pvs=4)
 
-# 1주차 이슈
+## 1주차 이슈
 
 <details><summary>접기/펼치기</summary>
 
