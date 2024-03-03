@@ -22,20 +22,21 @@
 
 ## 📚 Curriculum
 
-| 주차 | 분류 | 주제                            |
-| ---- | ---- | ------------------------------- |
-| 1    | DB   | [SQL](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/SQL) / [ERD](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/ERD) / [Normalization](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Normalization)                                   |
-| 2    | DB   | [Indexing](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Indexing) / [Transaction](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Transaction)          |
-| 3    | DB   | N+1 Problem / NoSQL             |
-| 4    | OS   | Process & Thread / 스케줄링     |
-| 5    | OS   | 프로세스 동기화 / 메모리 & 캐시 |
-| 6    | OS   | 가상메모리 / 파일시스템         |
-| 7    | OS   | 대용량 저장구조                 |
-| 8    | NW   | IP / OSI 7계층 & TCP/IP 4계층   |
-| 9    | NW   | HTTP/HTTPS / Restful            |
-| 10   | NW   | 응용 계층                       |
-| 12   | NW   | 전송 계층                       |
-| 13   | NW   | 네트워크 계층                   |
+| 주차 | 분류 | 주제                                                                                                                                                                                                              |
+| ---- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | DB   | [SQL](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/SQL) / [ERD](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/ERD) / [Normalization](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Normalization) |
+| 2    | DB   | [Indexing](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Indexing) / [Transaction](https://github.com/CSSAFTUDY/CS_STUDY/tree/main/DB/Transaction)                                                           |
+| 2-1  | DB   | Join / SQL 심화 문법                                                                                                                                                                                              |
+| 3    | DB   | N+1 Problem / NoSQL                                                                                                                                                                                               |
+| 4    | OS   | Process & Thread / 스케줄링                                                                                                                                                                                       |
+| 5    | OS   | 프로세스 동기화 / 메모리 & 캐시                                                                                                                                                                                   |
+| 6    | OS   | 가상메모리 / 파일시스템                                                                                                                                                                                           |
+| 7    | OS   | 대용량 저장구조                                                                                                                                                                                                   |
+| 8    | NW   | IP / OSI 7계층 & TCP/IP 4계층                                                                                                                                                                                     |
+| 9    | NW   | HTTP/HTTPS / Restful                                                                                                                                                                                              |
+| 10   | NW   | 응용 계층                                                                                                                                                                                                         |
+| 12   | NW   | 전송 계층                                                                                                                                                                                                         |
+| 13   | NW   | 네트워크 계층                                                                                                                                                                                                     |
 
 ---
 
