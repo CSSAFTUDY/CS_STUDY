@@ -2,8 +2,8 @@
 
 ## ✔ 파일 이름 예시
 
-> Process&Thread*서영선.pdf<br>
-> Process&Thread*서영선.md
+> Process&Thread_서영선.pdf<br>
+> Process&Thread_서영선.md
 
 <br>
 
